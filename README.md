@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haja</h1>
-<h3 align="center">A passionate frontend developer from Madagascar</h3>
+<h3 align="center">A passionate react developer from Madagascar</h3>
 
 - 🔭 I’m currently working on [Sourcing App](https://handri09.github.io/task-tracker/)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://handri09.github.io/haja](https://handri09.github.io/haja)
 
-- ⚡ Fun fact **I am funny dancer**
+- ⚡ Fun fact! **I am funny dancer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
