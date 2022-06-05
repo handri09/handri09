@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haja</h1>
+<h1 align="center">👋 Hi, I'm Haja</h1>
 <h3 align="center">A passionate react developer from Madagascar</h3>
 
 - 🔭 I’m currently working on [portfolio](https://handri09.github.io/haja/)
