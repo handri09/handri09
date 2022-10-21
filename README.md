@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Haja</h1>
 <h3 align="center">A passionate react developer from Madagascar</h3>
 
-- 🔭 I’m currently working on [portfolio](https://handri09.github.io/haja/)
+- 🔭 I’m currently working as OSISoft PI System Administrator
 
-- 🌱 I’m currently learning **Advanced React and Javascript**
+- 🌱 I’m currently learning **OSISoft PI AF-SDK and AWS Cloud Developer**
 
 - 👯 I’m looking to collaborate on **Interesting React Project**
 
-- 🤝 I’m looking for help with [Todo Apps](https://handri09.github.io/2022)
+- 🤝 I’m looking for remote job for OSISoft PI System Administrator
 
 - 👨‍💻 All of my projects are available at [https://handri09.github.io/haja](https://handri09.github.io/haja)
 
