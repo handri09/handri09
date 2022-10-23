@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Haja</h1>
-<h3 align="center">A passionate react developer from Madagascar</h3>
+<h3 align="center">A passionate OSISoft PI System Administrator and AWS Cloud developer from Madagascar</h3>
 
 - 🔭 I’m currently working as OSISoft PI System Administrator
 
