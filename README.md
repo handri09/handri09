@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://handri09.github.io/haja](https://handri09.github.io/haja)
 
-- 💬 Ask me about **React and Python**
+- 💬 Ask me about **OSI PI System and its components**
 
 - 📫 How to reach me **hajaniaina.andri@gmail.com +261342753651**
 
